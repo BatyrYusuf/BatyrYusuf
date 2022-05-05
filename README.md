@@ -1,16 +1,17 @@
-### Hi there 👋
+# *Welcome to my github page 
+    *I'm Yusuf
+    *I am an engineer 
+    *I like life :D
+  
+ 
+# *My Linkedin:
+[Yusuf's Linkedin page](https://www.linkedin.com/in/yusuf-cans%C4%B1z-2b2b20182)
+ 
+# My core skills:
+    *Java
+    *Python
+    
+# My Work Experience:
+    *2022-current - Huawei
+    
 
-<!--
-**BatyrYusuf/BatyrYusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
