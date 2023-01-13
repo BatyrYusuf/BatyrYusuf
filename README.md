@@ -1,7 +1,7 @@
 
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h5 align="center">I'm a certified and passionate software tester.</h5>
+<h5 align="center"></h5>
 
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
